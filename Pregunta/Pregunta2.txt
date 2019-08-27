@@ -1,0 +1,4 @@
+Pregunta 2
+-Versionar codigo de una manera mas rapida y ligera
+-Mejorar el sistema usado por los demas scv
+-Crear una interfaz mucho mas entendible
